@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Makedon-KIEV
+- 👀 I’m interested in full-stack programming
+- 🌱 I’m currently learning - at the GOit programmer school
+- 💞️ I’m looking to collaborate on interesting projects, especially if they benefit humanity and make life easier and easier
+- 📫 How to reach me makedon.kiev@gmail.com
